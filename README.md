@@ -20,6 +20,8 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   - Entre na pasta `src/`.
   - Execute o comando: `dotnet restore`.
   
+</details>
+  
 
 <details>
   <summary><strong>🛠 Testes</strong></summary><br />
