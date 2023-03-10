@@ -41,11 +41,11 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 </details>
 
 
-# Requisitos
+# O Projeto
 
 Este projeto permitirá que uma pessoa estudante se candidate a várias vagas de universidade ao redor do mundo. 
 
-O projeto  integra uma API no sistema, para que os alunos possam encontrar universidades de acordo com o nome e o país.
+O projeto integra uma API no sistema, para que os alunos possam encontrar universidades de acordo com o nome e o país.
 
  
 ## Realizando a integração com a api Universities 
