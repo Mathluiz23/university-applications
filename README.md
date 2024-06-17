@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do Projeto Inscrições para Universidade 
+# Projeto Inscrições para Universidade 
 
 # Termos e acordos
 
@@ -11,9 +11,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/acc-csharp-0x-project/acc-csharp-0x-project-university-applications.git`.
+  - Use o comando: `git clone git@github.com:Mathluiz23/university-applications.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd acc-csharp-0x-project/acc-csharp-0x-project-university-applications`
+    - `cd university-applications`
 
   2. Instale as dependências
   
